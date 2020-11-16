@@ -1,3 +1,5 @@
 function howdy() {
-  console.log('ok')
+
+  return 'hello'
+
 }
